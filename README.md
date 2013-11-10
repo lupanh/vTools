@@ -1,1 +1,1 @@
-Vietnamese toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker
+Vietnamese NLP toolkit: Tokenizer, Sentence detector, POS tagger, Phrase chunker
